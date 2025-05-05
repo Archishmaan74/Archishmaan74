@@ -1,8 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Archishmaan!</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archishmaan74&label=Profile%20views&color=0e75b6&style=flat" alt="archishmaan74" /> </p>
-
 - 🌱 I’m currently learning **React, Angular, Express, Node & MongoDB**
 
 - 📫 How to reach me **archishmaan.upa4@gmail.com**
@@ -20,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archishmaan74&show_icons=true&locale=en&layout=compact" alt="archishmaan74" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archishmaan74&" alt="archishmaan74" /></p>
